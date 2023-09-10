@@ -1,4 +1,4 @@
-# Tableau Influenza Project
+# Influenza Project
 
 ### Objective
 Define flu season and assess impact on vulnerable population. 
