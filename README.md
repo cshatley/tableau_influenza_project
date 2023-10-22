@@ -15,4 +15,4 @@ Tableau dashboard presentation answering stakeholder questions from Project Brie
 Influenza_Project_Brief
 
 ### Tableau
-[Dashboard](https://public.tableau.com/app/profile/courtney.shatley/viz/DataImmersionProject/Task2_9DataImmersion)
+[Influenza Dashboard](https://public.tableau.com/app/profile/courtney.shatley/viz/DataImmersionProject/Task2_9DataImmersion)
